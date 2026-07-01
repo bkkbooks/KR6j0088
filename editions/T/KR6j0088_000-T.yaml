@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0088/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無畏三藏禪要
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0917.xml
+    old_id: T18n0917
+hash: sha256:d57acacbcdd1bc486f37801187e80a2d3a647bf54265c3b38c833ec97be0bc4b

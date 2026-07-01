@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR6j0088/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0088/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無畏三藏禪要
+  identifiers:
+    krp: KR6j0088
+    cbeta: T18n0917
+    cbeta_old_id: T18n0917
+    authorityid: CA0003442
+    json_key: T0917
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0917.xml
+    old_id: T18n0917
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0088_000-T.yaml, hash: 'sha256:d57acacbcdd1bc486f37801187e80a2d3a647bf54265c3b38c833ec97be0bc4b'}
+  - {seq: 1, filename: KR6j0088_001-T.yaml, hash: 'sha256:2cdedb6b56fb09af81d082436018071650e3e6c15c13c5b725a79cf92ab5d532'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0088_000-T.markers.yaml, hash: 'sha256:52af5e02231de7e30a6bee5148a46ed3edc13327f207fdc5fd18a59416d1916c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0088_001-T.markers.yaml, hash: 'sha256:c2e61907bfd2c08299f8604ff60bc5bd4f77bdb79cb1fd9c18a2ac02aaff0607'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4517
+  label: 無畏三藏禪要海仁睿
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-1
+    span:
+    - body
+    - 179
+    - 179
+  label: 1 發心門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-2
+    span:
+    - body
+    - 233
+    - 233
+  label: 2 供養門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-3
+    span:
+    - body
+    - 333
+    - 333
+  label: 3 懺悔門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-4
+    span:
+    - body
+    - 520
+    - 520
+  label: 4 歸依門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-5
+    span:
+    - body
+    - 586
+    - 586
+  label: 5 發菩提心門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-6
+    span:
+    - body
+    - 709
+    - 709
+  label: 6 問遮難門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-7
+    span:
+    - body
+    - 1052
+    - 1052
+  label: 7 請師門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-8
+    span:
+    - body
+    - 1206
+    - 1206
+  label: 8 羯磨門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-9
+    span:
+    - body
+    - 1316
+    - 1316
+  label: 9 結戒門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-10
+    span:
+    - body
+    - 1366
+    - 1366
+  label: 10 修四攝門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0088_T_001-mulu-11
+    span:
+    - body
+    - 1497
+    - 1497
+  label: 11 十重戒門
+  type: mulu
+  level: 1
+hash: sha256:7d5ec61a5b81375a75768238bb4c186870cf058e1a12b254afeed1983e0d40cf
