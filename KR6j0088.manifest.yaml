@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0088/v1
 canonical_location: https://kanripo.org/bkk/KR6j0088/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 無畏三藏禪要
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0088_000.yaml, hash: 'sha256:d57acacbcdd1bc486f37801187e80a2d3a647bf54265c3b38c833ec97be0bc4b'}
-  - {seq: 1, filename: KR6j0088_001.yaml, hash: 'sha256:2cdedb6b56fb09af81d082436018071650e3e6c15c13c5b725a79cf92ab5d532'}
+  - {seq: 1, filename: KR6j0088_001.yaml, hash: 'sha256:7af4ddba0ceb062beb66ad171acf17edfaca78d9813d2f5ed39bcc31a109a002'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0088_000.markers.yaml, hash: 'sha256:72c01ca56a642247bfecd216f95c1e0ea90c9f6e14b18a056582da7935df2fb2'}
-  - {seq: 1, role: markers, filename: assets/KR6j0088_001.markers.yaml, hash: 'sha256:785dabb67930d36aab26d0ab091d80914ee4797b056153bd85cf647b5f867b1a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0088_001.markers.yaml, hash: 'sha256:f2a2f0313e995a6f3f4d25f69b98518a3a6749335740f496ca00333785b32250'}
 table_of_contents:
 - ref:
     seq: 1
@@ -159,4 +159,7 @@ table_of_contents:
   label: 11 十重戒門
   type: mulu
   level: 1
-hash: sha256:fae6b749f6daac19c730b36bdc16724b1c1e630c455cc8803e7981ae4ce07db4
+hash: sha256:1e0286c8c41e7fffb1d7c6f1b2be443c14079f1754d7184905b2be87ee2a237a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
